@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\persistence\\repositories\\tablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\tablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\persistence\\repositories\\itablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itablespecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\deletetablespecifications\\deletetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\deletetablespecifications\\deletetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\deletetablespecifications\\deletetablespecificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\deletetablespecifications\\deletetablespecificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\deletetablespecifications\\deletetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\deletetablespecifications\\deletetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\createtablespecifications\\createtablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\createtablespecifications\\createtablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\updatetablespecifications\\updatetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\updatetablespecifications\\updatetablespecificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\updatetablespecifications\\updatetablespecificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\updatetablespecifications\\updatetablespecificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\updatetablespecifications\\updatetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\updatetablespecifications\\updatetablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\createtablespecifications\\createtablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\createtablespecifications\\createtablespecificationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\commands\\createtablespecifications\\createtablespecificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\createtablespecifications\\createtablespecificationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day3\\donisahertiyan_learnwebapi\\core\\features\\queries\\gettablespecifications\\gettablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettablespecifications\\gettablespecificationshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTableSpecificationResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:50.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteTableSpecificationCommand.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationCommand.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationCommand.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Application\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TableController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:02:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITableSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ITableSpecificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:03:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\TableSpecificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:03:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteTableSpecificationHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\DeleteTableSpecifications\\DeleteTableSpecificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTableSpecificationHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:59:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateTableSpecificationCommand.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:16:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTableSpecificationHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:16:56.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:10:38.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTableSpecificationResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\UpdateTableSpecifications\\UpdateTableSpecificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:17:07.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetTableSpecificationsQuery.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:08:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetTableSpecificationsHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:09:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTableSpecificationResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:00:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateTableSpecificationCommand.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationCommand.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationCommand.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\CreateTableSpecifications\\CreateTableSpecificationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:59:54.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTableSpecificationsResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day3\\DoniSahertiyan_LearnWebApi\\Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTableSpecifications\\GetTableSpecificationsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:11:20.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
